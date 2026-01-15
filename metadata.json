@@ -1,0 +1,8 @@
+{
+  "name": "LFCA Church Manager",
+  "description": "A comprehensive Church Management System for Living Faith Champions' Assembly (Liberia), featuring member management, financial tracking, real-time attendance, and AI-powered sermon/announcement generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
